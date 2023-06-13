@@ -1,4 +1,4 @@
-import aminofix as amino, concurrent.futures, threading, json
+import aminofix as amino, threading, json
 import colorama, pyfiglet
 
 print(colorama.Fore.GREEN)
