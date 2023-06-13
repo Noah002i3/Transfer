@@ -1,6 +1,6 @@
 # Transfer
 Este script funciona directamente desde tú cuenta y tambien utilizando un accounts.json.
-## Requirements
+## Requerimientos
 
 ##### - amino.fix
 ##### - colorama
