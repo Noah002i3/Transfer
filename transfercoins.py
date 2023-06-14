@@ -57,7 +57,7 @@ metodoenvio = input(" - Opción:")
 if metodoenvio == "1":
     transfer()
 elif metodoenvio =="2":
-    transfercuentas
+    transfercuentas()
 
         
             
